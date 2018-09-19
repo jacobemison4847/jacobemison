@@ -1,8 +1,4 @@
-.title1 {
-font-style: Georgia;
-top: 10px;
-font-size: 20px;
-border: 2px solid #FFFAFA
-height: 700px;
-background-color: maroon;
+.col-sm-8 {
+  color: white;
+  font-weight: bold;
 }
